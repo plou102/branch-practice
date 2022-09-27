@@ -1,9 +1,11 @@
 const food=[
 	'steak',
-	'spaghetti'
+	'spaghetti',
+	'coffee'
 ];
 
 const animals=[
 	'dog',
 	'cat',
+	'hamster',
 ];
